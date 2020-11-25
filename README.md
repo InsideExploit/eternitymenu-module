@@ -11,6 +11,8 @@ Just an reversed module of an mod menu of Grand Theft Auto V protected using The
 * Scylla Dumper
 * Cheat Engine
 
+**Module Link:** https://eternitymenu.com/menu/ | That is the official repository with the auth php file and with the image files and something other bullshits.
+
 # How to bypass
 1) **First inject the module DLL in GTA5.exe using Xenos or some other injectors.**
 2) **After open Cheat Engine, attach GTA5.exe processes, and select module desiderated.**
