@@ -32,7 +32,7 @@ Just an reversed module of an mod menu of Grand Theft Auto V protected using The
 7) **Now its the time to open the network debugger, now i will use HTTP Debugger Pro, remember to use SSL Certificates for grabbing requests.**
 8) **Now lets find the request with the URL we found before using IDA Pro 7.2, so the request is going to do is connected to the domain "x.com/auth?parameter1=username&parameter2=password&parameter3=hwid. Something like that."
 
-** That is how the request will appear in the menu when you will try to login with that menu. **
+**That is how the request will appear in the menu when you will try to login with that menu. **
 
 ![Step Number 8](https://imgur.com/QY45F5s.png)
 
