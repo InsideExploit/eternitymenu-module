@@ -38,7 +38,7 @@ Just an reversed module of an mod menu of Grand Theft Auto V protected using The
 
 ![Step Number 9](https://imgur.com/WeivQn9.png)
 
-10) **Now we need rendirect that request and rendirect the response to 127.0.0.1 and modify the response content to the response we found in ida so that is "authorised"**.
+10) **Now we need rendirect that request and rendirect the response to 127.0.0.1 and modify the response content to the response we found in ida so that is "authorised" (UPDATE OF 26/11/2020: from "authorised" is now "successvip")**.
 
 **Here we are going to change our request and set the response to the valid one so like i've buyed VIP. You must change the url paramters with the username and password
 you want to use in login, you can do it random one.**
