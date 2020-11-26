@@ -30,7 +30,7 @@ Just an reversed module of an mod menu of Grand Theft Auto V protected using The
 ![Step Number 6](https://imgur.com/Dh8ZHHD.png)
 
 7) **Now its the time to open the network debugger, now i will use HTTP Debugger Pro, remember to use SSL Certificates for grabbing requests.**
-8) **Now lets find the request with the URL we found before using IDA Pro 7.2, so the request is going to do is connected to the domain "x.com/auth?parameter1=username&parameter2=password&parameter3=hwid. Something like that."**
+8) **Now lets find the request with the URL we found before using IDA Pro 7.2, so the request is going to do is connected to the domain "x.com/auth?parameter1=username&parameter2=password&parameter3=hwid. Something like that. (UPDATE OF 26/11/2020: Now the request are on the path /fag/!)"**
 
 ![Step Number 8](https://imgur.com/QY45F5s.png)
 
